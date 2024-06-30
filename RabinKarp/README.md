@@ -1,0 +1,2 @@
+﻿The Rabin-Karp algorithm is another efficient string matching algorithm that uses hashing to find an occurrence of a "pattern" string within a "text" string. 
+The algorithm's main advantage is its efficiency when dealing with multiple pattern searches within a text.

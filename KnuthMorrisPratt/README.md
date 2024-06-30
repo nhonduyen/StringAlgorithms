@@ -1,0 +1,3 @@
+﻿The Knuth-Morris-Pratt (KMP) algorithm is an efficient string matching algorithm that searches for occurrences of a "pattern" within a "text" string. 
+The KMP algorithm preprocesses the pattern to create a partial match table (also known as the "prefix" table), which is then used to skip characters in the text, 
+resulting in a time complexity of O(n + m), where n is the length of the text and m is the length of the pattern.
